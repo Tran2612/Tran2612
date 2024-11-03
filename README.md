@@ -10,10 +10,7 @@
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=Tran2612&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
-### 😂Random Dev Meme
+### ✍️ Dev Quote
 <h3><b>"Không có giới hạn , chỉ là  bạn chưa đủ cố gắng"</b></h3>
 
 ---
