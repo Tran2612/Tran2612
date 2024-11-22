@@ -7,8 +7,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Tran2612&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tran2612&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=Tran2612&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 
 ### ✍️ Dev Quote
 <h3><b>"Không có giới hạn , chỉ là  bạn chưa đủ cố gắng"</b></h3>
